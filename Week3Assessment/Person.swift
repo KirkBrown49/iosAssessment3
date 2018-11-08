@@ -6,8 +6,9 @@
 //  Copyright © 2018 Ryan Brashear. All rights reserved.
 //
 
-import Foundation
+
 import UIKit
+let people = [Person]()
 
 class Person {
     let name: String
